@@ -4,6 +4,10 @@ project:
 
 paths:
   data: "data"
+  raw_videos: "data/raw"
+  frames: "data/frames"
+  annotations: "data/annotations"
+  processed: "data/processed"
   experiments: "experiments"
   models: "models"
 
