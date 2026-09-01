@@ -1,0 +1,11 @@
+project:
+  name: "Cricket DRS LBW"
+  version: "0.1.0"
+
+paths:
+  data: "data"
+  experiments: "experiments"
+  models: "models"
+
+environment:
+  python_version: "3.12"
